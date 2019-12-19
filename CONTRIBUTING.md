@@ -6,9 +6,9 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## Branch Git Convention
 
-docs/cc-\<number\>-\<name\> <!-- For documentation -->  
-feat/cc-\<number\>-\<name\> <!-- For features -->  
-bug/cc-\<number\>-\<name\> <!-- For bug fix -->  
+docs/cc-\<number\>-\<name\> `For documentation`  
+feat/cc-\<number\>-\<name\> `For features`   
+bug/cc-\<number\>-\<name\> `For bug fix`  
 
 Commit:
 cc-\<number\>: Title to resume the commit
